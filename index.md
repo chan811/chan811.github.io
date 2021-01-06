@@ -2,7 +2,6 @@
 
 ![Image](https://chan811.github.io/images/imageChanly.png) ***<- Me!!!***
 
-
 ## Social Media
 [Linkedln](https://www.linkedin.com/in/chanly-ly-89869519b/)
 
@@ -40,7 +39,6 @@ float Q_rsqrt( float number )
 3. Collecting figures/pins/stickers and more
 4. Gaming
 
-
 ### Languages
 - C
 - C#
@@ -57,7 +55,7 @@ float Q_rsqrt( float number )
 - [ ] Learn python
 - [ ] Work on arduino project
 
-
+[**Project List**](doc/project.md)
 
 
 
