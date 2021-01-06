@@ -1,7 +1,7 @@
 # Projects
 
 ### Completed
-- Basic Music Discord Bot
+- Music Discord Bot
 - Messenging between two raspberry pi
 
 ### Work in Progress
