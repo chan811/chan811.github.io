@@ -4,9 +4,9 @@
 
 
 ## Social Media
-[**Linkedln**](https://www.linkedin.com/in/chanly-ly-89869519b/)
+[Linkedln](https://www.linkedin.com/in/chanly-ly-89869519b/)
 
-[**Instagram**](https://www.instagram.com/chan__811/)
+[Instagram](https://www.instagram.com/chan__811/)
 
 ### About Me
 >I am a transfer student @UCSD majoring in computer engineering. 
