@@ -3,8 +3,12 @@
 ![Image](https://chan811.github.io/images/imageChanly.png)
 
 
-
+## Social Media
 [Linkedln](https://www.linkedin.com/in/chanly-ly-89869519b/)
+
+[Instagram](https://www.instagram.com/chan__811/)
+
+
 
 
 
