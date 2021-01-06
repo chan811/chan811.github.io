@@ -11,7 +11,7 @@
 >I am a transfer student @UCSD majoring in computer engineering. 
 >Something nerdy about me is that when I am not practicing leetcode I would look up random algorithms and try to understand them.
 >One really cool algorithm that I have seen is the inverse square algorithm from the video game Quake III which used to quickly approximate 
->the inverse square. 
+>the inverse square. I hope to one day be able to come up with a beautiful algorithm like the one from Quake III.
 
 **The inverse square algorithm from Quake III**
 ```
